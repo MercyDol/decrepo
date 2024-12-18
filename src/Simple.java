@@ -5,6 +5,7 @@ public class Simple {
 	System.out.println("Message from STS");
 	System.out.println("Message from GITHUB");
 	System.out.println("Message from STS ");
+	System.out.println("Message from STS  from first branch");
 	}
 
 }
